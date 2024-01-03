@@ -1,0 +1,15 @@
+dependencies:
+  espressif/esp_h264:
+    component_hash: 08173382ffa49b0893372d1b5f22c490467c1e4bf918ed412b49215dd1dd2d95
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.1.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+manifest_hash: 689d22ff0590afe81a0da3fc4153d1631851363e3e0aa2a238e4316d078d66d5
+target: esp32s3
+version: 1.0.0
